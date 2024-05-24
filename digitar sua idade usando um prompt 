@@ -1,0 +1,2 @@
+let idade = prompt('digite sua idade');
+alert ('sua idade é+idade');

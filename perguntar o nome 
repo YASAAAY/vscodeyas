@@ -1,0 +1,2 @@
+let nome = 'Julia'
+alert('o nome é: '+nome)
